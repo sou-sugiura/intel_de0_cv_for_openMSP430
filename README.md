@@ -1,5 +1,5 @@
 # Contents
-openMSP430 Soc Project (https://opencores.org/projects/openmsp430) simulation and implementation 
+openMSP430 SoC Project (https://opencores.org/projects/openmsp430) simulation and implementation 
 
 environment for Intel DE0-CV board. Before use this environment, read the following prerequisite.
 
