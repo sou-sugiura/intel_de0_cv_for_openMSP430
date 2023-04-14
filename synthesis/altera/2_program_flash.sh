@@ -44,11 +44,11 @@ echo "|"
 echo " ---------------------------------------------------------"
 echo ""
 
-# Copy and process POF file
+# Copy and process COF file
 cp scripts/sof2pof.cof ./bitstreams/.
 sed -ie "s/BITSTREAM_NAME/$1/g"  ./bitstreams/sof2pof.cof
 
-# Convert SOF file to JIC
+# Convert SOF file to POF
 quartus_cpf.exe -c ./bitstreams/sof2pof.cof
 
 # Cleanup
