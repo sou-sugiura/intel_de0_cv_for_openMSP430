@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rf INCA_libs *.log pmem.* stimulus.v *.dsn *.trn *.vcd simv
+rm -rf work transcript *.wlf
