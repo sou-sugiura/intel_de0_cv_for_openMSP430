@@ -34,17 +34,17 @@ if [ ! -e $soffile ]; then
 fi
 
 ###############################################################################
-#                             Generate JIC file
+#                             Generate POF file
 ###############################################################################
 echo " ---------------------------------------------------------"
-echo "|  GENERATE JIC FILE"
+echo "|  GENERATE POF FILE"
 echo "|"
 echo "|  $soffile --> $poffile"
 echo "|"
 echo " ---------------------------------------------------------"
 echo ""
 
-# Copy and process COF file
+# Copy and process POF file
 cp scripts/sof2pof.cof ./bitstreams/.
 sed -ie "s/BITSTREAM_NAME/$1/g"  ./bitstreams/sof2pof.cof
 
