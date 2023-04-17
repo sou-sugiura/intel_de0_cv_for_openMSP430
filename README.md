@@ -21,7 +21,7 @@ https://www.intel.com/content/www/us/en/software-kit/776289
 
 Download for Windows application. 
 
-Set Questa license from SSLC. (For setting license, Microsoft personal account is necessary. Work or school account cannot be used.)
+Set Questa license from SSLC. (For setting license, Intel account is needed and Microsoft personal account is necessary. Work or school account cannot be used.)
 
 https://community.intel.com/t5/Intel-FPGA-Software-Installation/Guidelines-amp-Information-on-Questa-Intel-FPGA-Edition-Software/m-p/1329999#:~:text=For%20Windows%3A%201%201.%20Get%20a%20license.dat%20file,5.%20Click%20OK%20and%20restart%20the%20Questa%20software.
 
